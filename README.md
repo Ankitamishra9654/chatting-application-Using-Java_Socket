@@ -64,7 +64,7 @@ Special thanks to the creators and maintainers of the libraries and frameworks u
 
 **Screenshots:**
 
-![image](https://github.com/Ankitamishra9654/chatting-application-Using-Java_Socket/assets/136074376/01a01786-a0d5-48c0-b5d9-83f58b5ea7cb)
+![image](https://github.com/Ankitamishra9654/chatting-application-Using-Java_Socket/assets/136074376/153f3944-c684-457d-84c8-79c44472222d)
 
 ![image](https://github.com/Ankitamishra9654/chatting-application-Using-Java_Socket/assets/136074376/46b451c4-7f59-4f2d-8a4e-94e1bcbce67f)
 
