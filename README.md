@@ -1,7 +1,5 @@
 **Chat Application - A Simple Java-Based Chatting System**
 
-![Chat Application](![image](https://github.com/Ankitamishra9654/chatting-application-Using-Java_Socket/assets/136074376/b85ae424-63a7-4b96-965d-08b62959cfed)
-)
 
 ---
 
@@ -66,8 +64,7 @@ Special thanks to the creators and maintainers of the libraries and frameworks u
 
 ![image](https://github.com/Ankitamishra9654/chatting-application-Using-Java_Socket/assets/136074376/153f3944-c684-457d-84c8-79c44472222d)
 
-![image](https://github.com/Ankitamishra9654/chatting-application-Using-Java_Socket/assets/136074376/46b451c4-7f59-4f2d-8a4e-94e1bcbce67f)
-
+![image](https://github.com/Ankitamishra9654/chatting-application-Using-Java_Socket/assets/136074376/bf5c9edc-8cc6-495d-b689-229d40b9badc)
 
 ---
 
